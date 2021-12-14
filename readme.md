@@ -37,7 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![JazzShop][product-screenshot]](https://example.com)
+![Screenshot_1](https://user-images.githubusercontent.com/71381757/146026215-319bca11-dcc1-467e-a551-fba1ab7a9c75.png)
+
 
 This project is the first end-of-chapter project of the Patika.Dev Front-End course.
 
